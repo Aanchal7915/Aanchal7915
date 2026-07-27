@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/866d92931a5789f2dbf77c38c8c50f44927ed1dc/GIFs/Lofi/Lofi%20(7).gif" width="100%" alt="Lo-Fi Coding Animation">
+  <img src="https://res.cloudinary.com/dn0j5mkmb/image/upload/v1785151468/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba_rbyenr.gif" width="100%" alt="Lo-Fi Coding Animation">
 </p>
 
 <h2 align="center">WELCOME TO MY GITHUB PROFILE</h2>
