@@ -5,6 +5,7 @@
   <a href="https://linkedin.com/in/aanchal-kumari-226b00283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aanchal2115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Aanchalkumari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/aancha166j"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
@@ -90,5 +91,6 @@ Role-based school management system with REST APIs for academics, attendance, tr
 <p align="center">
   <a href="https://linkedin.com/in/aanchal-kumari-226b00283">LinkedIn</a> ·
   <a href="mailto:aanchal2115@gmail.com">Email</a> ·
-  <a href="https://leetcode.com/u/Aanchalkumari/">LeetCode</a>
+  <a href="https://leetcode.com/u/Aanchalkumari/">LeetCode</a> ·
+  <a href="https://www.geeksforgeeks.org/profile/aancha166j">GeeksforGeeks</a>
 </p>
