@@ -60,15 +60,15 @@
 
 ### Featured Projects
 
-**[Social Media CRM](https://github.com/Aanchal7915/social-media-crm)** — MERN Stack · 2026
+**[Social Media CRM](https://github.com/Aanchal7915/social-media-crm-showcase)** — MERN Stack · 2026
 Full-stack CRM to manage clients and streamline social media workflows via a centralized dashboard. JWT auth + RBAC on the backend, React/Vite/Tailwind v4 on the frontend.
 🔗 [Live Demo](https://socialsync.avanienterprises.in/)
 
-**[Farm-to-Home Grocery](https://github.com/Aanchal7915/Gaon-se-ghar-tak)** — E-Commerce Platform · 2025
+**[Farm-to-Home Grocery](https://github.com/Aanchal7915/Gaon-se-ghar-tak-showcase)** — E-Commerce Platform · 2025
 Full-stack grocery e-commerce platform with category browsing, trending products, bestsellers, discounts, and inventory management.
 🔗 [Live Demo](https://gaonseghartak.in/)
 
-**[School Management System](https://github.com/Aanchal7915/sms-frotend)** — Full Stack (MERN) · 2025
+**[School Management System](https://github.com/Aanchal7915/school_management-project-showcase)** — Full Stack (MERN) · 2025
 Role-based school management system with REST APIs for academics, attendance, transport management, and real-time GPS bus tracking.
 🔗 [Live Demo](https://schoolmanagement.avanienterprises.in/)
 
