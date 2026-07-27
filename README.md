@@ -1,12 +1,16 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dn0j5mkmb/image/upload/v1785151468/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba_rbyenr.gif" width="100%" alt="Lo-Fi Coding Animation">
+  <img src="https://res.cloudinary.com/dn0j5mkmb/image/upload/v1785151468/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba_rbyenr.gif" width="700">
+   <br><br>
+  <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 </p>
+<p align="center>&nbsp;</p>
+<p align="center>&nbsp;</p>
 
-<h2 align="center">WELCOME TO MY GITHUB PROFILE</h2>
 
-<h3 align="center">Hi 👋, I'm Aanchal Kumari</h3>
+
+<h2 align="center">Hi 👋, I'm Aanchal Kumari</h2>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com/">
