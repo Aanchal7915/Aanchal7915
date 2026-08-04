@@ -52,7 +52,6 @@ Alongside development, I'm continuously **sharpening my problem-solving with DSA
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
 ### 📱 SocialSync — Social Media CRM
@@ -65,7 +64,62 @@ A centralized CRM dashboard to **manage every brand in one place** — handle mu
 - ✔ Clean, responsive and modern UI
 - ✔ Full-stack MERN architecture
 
-🔗 **[Live Demo »](https://socialsync.avanienterprises.in/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+🔗 **[Live Demo »](https://social-media-crm-six.vercel.app/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+
+---
+
+### 🌾 Gaon Se Ghar Tak
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
+
+A farm-to-home e-commerce platform — **fresh & pure farm produce** delivered directly from villages to consumers' homes.
+
+- ✔ Farm-direct product catalog & online ordering
+- ✔ Home delivery of fresh, pure produce
+- ✔ Smooth, responsive shopping experience
+- ✔ Full-stack MERN architecture
+
+🔗 **[Live Demo »](https://www.gaonseghartak.in/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+
+---
+
+### 🏫 School Management System
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB`
+
+A complete school ERP to manage day-to-day academic operations from one dashboard.
+
+- ✔ Student, teacher & staff management
+- ✔ Attendance, fees & exam records
+- ✔ Role-based dashboards (admin / teacher / student)
+- ✔ Full-stack MERN architecture
+
+🔗 **[Live Demo »](https://schoolmanagement.avanienterprises.in/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+
+---
+
+### 🏍️ MotoExpress
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
+
+A vehicle / transport platform for quick online bookings and management.
+
+- ✔ Online booking & management flow
+- ✔ Clean, responsive user interface
+- ✔ Fast and reliable experience
+- ✔ Full-stack MERN architecture
+
+🔗 **[Live Demo »](https://motoexpress.avanienterprises.in/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+
+---
+
+### ⛪ Holy Heart
+**Tech:** `React` · `Tailwind CSS`
+
+A modern, responsive website for the Holy Heart institution — information, gallery, and contact in one place.
+
+- ✔ Modern, fully responsive design
+- ✔ Info, gallery & contact sections
+- ✔ Fast-loading single-page experience
+
+🔗 **[Live Demo »](https://holy-heart.vercel.app/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
 
 ---
 
