@@ -138,21 +138,20 @@ A modern, responsive website for the Holy Heart institution — information, gal
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aanchal7915&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal7915&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanchal7915&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aanchal7915&hide_border=true&theme=tokyonight" />
-</p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🎯 Currently
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aanchal7915/Aanchal7915/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+- 🔭 Building full-stack **MERN** projects at **Avani Enterprises**
+- 🌱 Diving deeper into **DSA** and **AI / GenAI** with the OpenAI ecosystem
+- 👯 Open to collaborating on impactful web development projects
+- 🎯 **2026 Goal:** graduate as a strong full-stack engineer & ace DSA interviews
+- 💡 I believe in writing clean code that solves real problems, not just works
+- ⚡ Fun fact: I enjoy turning messy, complex problems into simple, elegant solutions
 
 ---
 
@@ -163,11 +162,17 @@ I'm always open to collaborating on interesting projects, discussing tech, or ne
 - 📧 **Email:** [aanchal2115@gmail.com](mailto:aanchal2115@gmail.com)
 - 💼 **LinkedIn:** [aanchal-kumari](https://www.linkedin.com/in/aanchal-kumari-226b00283)
 - 💻 **LeetCode:** [Aanchalkumari](https://leetcode.com/u/Aanchalkumari/)
-- 🧩 **GeeksforGeeks:** [aancha166j](https://auth.geeksforgeeks.org/user/aancha166j)
+- 🧩 **GeeksforGeeks:** [aancha166j](https://auth.geeksforgeeks.org/user/aanchal7911)
 - 🐦 **X (Twitter):** [@kumariaanchal97](https://x.com/kumariaanchal97)
+
+## 💭 Thought
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Keep+building%2C+keep+learning+%F0%9F%9A%80;Code.+Solve.+Repeat.;Turning+ideas+into+real+products;Consistency+beats+talent+%F0%9F%92%AA;Dream+big%2C+build+bigger" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aanchal7915&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Keep building, keep learning." 🚀</i></p>
+
