@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack MERN Developer** at **Avani Enterprises**, where I build clean, high-performance web applications from the ground up — from pixel-perfect React interfaces to robust Node.js & MongoDB backends. I'm a final-year **B.Tech CSE (2026)** student who loves turning ideas into real, usable products.
+I'm a **Full Stack MERN Developer** at **Avani Enterprises**, where I build clean, high-performance web applications from the ground up — from pixel-perfect React interfaces to robust Node.js & MongoDB backends. I have completed **B.Tech CSE (2026)** who loves turning ideas into real, usable products.
 
 Alongside development, I'm continuously **sharpening my problem-solving with DSA** and **exploring AI / GenAI** using the OpenAI ecosystem. I enjoy writing maintainable code, learning new technologies, and shipping projects that actually solve problems. 🌱
 
