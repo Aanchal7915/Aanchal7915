@@ -1,60 +1,119 @@
-
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dn0j5mkmb/image/upload/v1785151468/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba_rbyenr.gif" width="700">
-   <br><br>
-  <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
-</p>
-<p align="center>&nbsp;</p>
-<p align="center>&nbsp;</p>
-
-
-
-<h2 align="center">Hi 👋, I'm Aanchal Kumari</h2>
+<h1 align="center">Hi 👋, I'm Aanchal Kumari</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Developer;I'm+a+MERN+Stack+Enthusiast;I+build+Production-Grade+Apps" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;B.Tech+CSE+2026;Sharpening+problem-solving+with+DSA;Exploring+AI+%2F+GenAI+with+OpenAI" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-I am a highly motivated Full Stack Developer currently working at Avani Enterprises, where I build robust Insurance Portals, E-commerce Platforms, School Management Systems, and Real Estate Applications end-to-end. I have completed my B.Tech in Computer Science & Engineering at Baba Mastnath University (2022–2026). My expertise lies in designing secure backend services using Node.js, MongoDB, and PostgreSQL with JWT-based RBAC, alongside shipping highly responsive frontends with React and Next.js. I have a strong foundation in problem-solving with over 200+ problems solved on LeetCode and GeeksforGeeks, and I am actively exploring AI/GenAI integrations to drive innovation. I am eager to leverage my technical skills and continuous learning mindset to deliver pioneering solutions and catalyze efficiency in impactful projects.
+  <a href="https://www.linkedin.com/in/aanchal-kumari-226b00283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aanchal2115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Aanchalkumari/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/aancha166j"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://x.com/kumariaanchal97"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Full Stack MERN Developer** at **Avani Enterprises**, where I build clean, high-performance web applications from the ground up — from pixel-perfect React interfaces to robust Node.js & MongoDB backends. I'm a final-year **B.Tech CSE (2026)** student who loves turning ideas into real, usable products.
+
+Alongside development, I'm continuously **sharpening my problem-solving with DSA** and **exploring AI / GenAI** using the OpenAI ecosystem. I enjoy writing maintainable code, learning new technologies, and shipping projects that actually solve problems. 🌱
+
+---
+
+## 🔥 What I Do
+
+- ⚡ Build responsive, high-performance web apps with the **MERN** stack
+- 🎨 Craft clean, modern UIs using **React, Next.js & Tailwind CSS**
+- 🛠️ Design and develop **REST APIs** with Node.js, Express & MongoDB
+- 🧠 Solve DSA problems in **C++ / JavaScript**
+- 🤖 Integrate **AI / GenAI** features using the OpenAI API
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" />
+</p>
+
+**Backend & Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,flask,python" />
+</p>
+
+**Languages & Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,docker,vercel,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📱 SocialSync — Social Media CRM
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
+
+A centralized CRM dashboard to **manage every brand in one place** — handle multiple social/brand accounts from a single, unified interface.
+
+- ✔ Manage multiple brands & accounts from one dashboard
+- ✔ CRM-style workflow for social media management
+- ✔ Clean, responsive and modern UI
+- ✔ Full-stack MERN architecture
+
+🔗 **[Live Demo »](https://social-media-crm-six.vercel.app/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer — **Avani Enterprises**
+`Current`
+
+- 🔹 Building full-stack **MERN** web applications end-to-end (frontend + backend + database)
+- 🔹 Developing responsive, reusable UI components with **React / Next.js & Tailwind CSS**
+- 🔹 Designing and integrating **REST APIs** using Node.js, Express & MongoDB
+- 🔹 Collaborating with the team using **Git & GitHub** for version control and code reviews
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aanchal7915&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanchal7915&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aanchal7915&label=Profile%20views&color=0e75b6&style=flat" alt="Aanchal7915" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aanchal7915&hide_border=true&theme=tokyonight" />
 </p>
 
-<br/>
+---
 
-<h4 align="center">Languages and Tools:</h4>
+## 🐍 Contribution Graph
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,graphql,flask,python,cpp,git,docker,vercel,postman" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/Aanchal7915/Aanchal7915/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<br/>
+---
 
-<h4 align="center">Connect with me:</h4>
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing tech, or new opportunities. Feel free to reach out! 💬
+
+- 📧 **Email:** [aanchal2115@gmail.com](mailto:aanchal2115@gmail.com)
+- 💼 **LinkedIn:** [aanchal-kumari](https://www.linkedin.com/in/aanchal-kumari-226b00283)
+- 💻 **LeetCode:** [Aanchalkumari](https://leetcode.com/u/Aanchalkumari/)
+- 🧩 **GeeksforGeeks:** [aancha166j](https://auth.geeksforgeeks.org/user/aancha166j)
+- 🐦 **X (Twitter):** [@kumariaanchal97](https://x.com/kumariaanchal97)
+
 <p align="center">
-  <a href="https://linkedin.com/in/aanchal-kumari-226b00283">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="42" height="42" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aanchal2115@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="42" height="42" alt="Email" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Aanchalkumari/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42" alt="LeetCode" />
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/aancha166j">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42" height="42" alt="GeeksForGeeks" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Aanchal7915&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
+
+<p align="center"><i>"Keep building, keep learning." 🚀</i></p>
