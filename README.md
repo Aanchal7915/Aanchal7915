@@ -65,7 +65,7 @@ A centralized CRM dashboard to **manage every brand in one place** — handle mu
 - ✔ Clean, responsive and modern UI
 - ✔ Full-stack MERN architecture
 
-🔗 **[Live Demo »](https://social-media-crm-six.vercel.app/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
+🔗 **[Live Demo »](https://socialsync.avanienterprises.in/)** &nbsp;|&nbsp; 🔒 **Repository: Private**
 
 ---
 
