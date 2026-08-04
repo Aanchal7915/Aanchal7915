@@ -165,6 +165,8 @@ I'm always open to collaborating on interesting projects, discussing tech, or ne
 - 🧩 **GeeksforGeeks:** [aancha166j](https://auth.geeksforgeeks.org/user/aanchal7911)
 - 🐦 **X (Twitter):** [@kumariaanchal97](https://x.com/kumariaanchal97)
 
+---
+
 ## 💭 Thought
 
 <p align="center">
@@ -174,5 +176,21 @@ I'm always open to collaborating on interesting projects, discussing tech, or ne
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aanchal7915&label=Profile+Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
+
+---
+<h3 align="center">💜 Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!+%F0%9F%98%8A;Hope+you+liked+it!;Let's+build+something+amazing+together!;Feel+free+to+connect+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+</p>
+
 
 
